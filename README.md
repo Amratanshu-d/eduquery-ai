@@ -64,4 +64,4 @@ python train_model.py
 > subject pass rates, ML predictions and AI reports
 
 ## 👤 Author
-**Amratanshu Dwivedi** — aspiring Full Stack Developer
+**Amratanshu Dwivedi** — AI/ML Engineer
